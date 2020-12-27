@@ -1,0 +1,25 @@
+{
+  "name": "WebAPI-JsExpert",
+  "version": "1.0.0",
+  "description": "Vídeo-aula \"Como construir uma Web API em Javascript sem frameworks | JS Expert\" do Erick Wendel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "npx nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfcamara/WebAPI-JsExpert.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfcamara/WebAPI-JsExpert/issues"
+  },
+  "homepage": "https://github.com/lfcamara/WebAPI-JsExpert#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
